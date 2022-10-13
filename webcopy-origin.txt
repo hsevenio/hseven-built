@@ -1,0 +1,808 @@
+Uri: http://h7test.dialen.com.ua/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/about/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\about\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/careers/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\careers\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/case-studies/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\case-studies\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/comments/feed/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://h7test.dialen.com.ua/company/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\company\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/feed/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://h7test.dialen.com.ua/locations/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\locations\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/privacy-policy/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\privacy-policy\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/resources/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\resources\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/service-deck/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\service-deck\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/terms-of-service/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\terms-of-service\index.htm
+Content Type: text/html
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/1f95525c95b9290ba2b9df247a8a6ad1.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\1f95525c95b9290ba2b9df247a8a6ad1.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/49c13735b943c4fedd0b7c7cd956823e.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\49c13735b943c4fedd0b7c7cd956823e.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/509b0b44b01d8fa6e9613456df0b3062.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\509b0b44b01d8fa6e9613456df0b3062.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/6315ddb6dfdb897c1b29ed929868f93f.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\6315ddb6dfdb897c1b29ed929868f93f.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/7710f1e28eed27f56859848a69adf875.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\7710f1e28eed27f56859848a69adf875.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/7a5baa6fea69aff1856a13f70498ecb1.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\7a5baa6fea69aff1856a13f70498ecb1.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/8e2ffa09c4cdd9e9e15deccb07390548.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\8e2ffa09c4cdd9e9e15deccb07390548.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/b730cff6688485e05e61eb5eabf1eda3.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\b730cff6688485e05e61eb5eabf1eda3.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/bb00d187f7c482777dd0bac341c9c639.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\bb00d187f7c482777dd0bac341c9c639.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/css/fd2e711263e46184cf2d5ded42979d6f.css?ver=d3089
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\css\fd2e711263e46184cf2d5ded42979d6f.css
+Content Type: text/css
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/05169e81ec5e3e3ed2131a57f5654bfe.js?ver=c606e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\05169e81ec5e3e3ed2131a57f5654bfe.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/058eb7c0e514775a0e80a33d43dfb5f0.js?ver=3789c
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\058eb7c0e514775a0e80a33d43dfb5f0.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/0af47a77ee3032971b7d5b1ff8b3ad7e.js?ver=aead0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\0af47a77ee3032971b7d5b1ff8b3ad7e.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/0d2e37c8ec54b77d9fa9e5c877d657d6.js?ver=ed09c
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\0d2e37c8ec54b77d9fa9e5c877d657d6.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/1904f8f84a478a87f88efba2a793eca5.js?ver=55f1e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\1904f8f84a478a87f88efba2a793eca5.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/1ca9e3e68258a5afeacbbc32f957c8bf.js?ver=270d0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\1ca9e3e68258a5afeacbbc32f957c8bf.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/2224b713b83be86b40033227b00d5f8a.js?ver=8baee
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\2224b713b83be86b40033227b00d5f8a.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/2692980fdc7e3d2726cd74245699d089.js?ver=72783
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\2692980fdc7e3d2726cd74245699d089.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/30619b30c9be7791dbb72fe6edb9d168.js?ver=2a6c1
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\30619b30c9be7791dbb72fe6edb9d168.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/37241d93ae25aca053d29f9dee6f34e7.js?ver=fcb73
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\37241d93ae25aca053d29f9dee6f34e7.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/3ced8ac253463f027374a2d5285b9d4c.js?ver=b9d4c
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\3ced8ac253463f027374a2d5285b9d4c.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/40d164e7902e6b58b5f0eb10106bd8fb.js?ver=cea20
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\40d164e7902e6b58b5f0eb10106bd8fb.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/43c48a5c0518b4907a1acd31511172b4.js?ver=96085
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\43c48a5c0518b4907a1acd31511172b4.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/47ed1da4466925a0a8743ba9adcae179.js?ver=fbd40
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\47ed1da4466925a0a8743ba9adcae179.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/4f99aa31eb6ca22d851040f818fd5e23.js?ver=94985
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\4f99aa31eb6ca22d851040f818fd5e23.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/517fc22dbfefe50af35c60e9b34fa9d6.js?ver=9718c
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\517fc22dbfefe50af35c60e9b34fa9d6.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/539457c978015583f81959109a6be3c4.js?ver=886e9
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\539457c978015583f81959109a6be3c4.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/563047da1aa454a682773786a5aa2132.js?ver=daaf5
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\563047da1aa454a682773786a5aa2132.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/5d02b8a75759d3c2ba654769e14bf07f.js?ver=f51ff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\5d02b8a75759d3c2ba654769e14bf07f.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/682c9f164379854117fd38ae44ff30f6.js?ver=c8e8f
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\682c9f164379854117fd38ae44ff30f6.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/68a17ae023bac6ebf86b9a46b8ea3eee.js?ver=45d09
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\68a17ae023bac6ebf86b9a46b8ea3eee.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/6904b541c945ba85ef038afb9fdace3e.js?ver=bae90
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\6904b541c945ba85ef038afb9fdace3e.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/70ac49788f34b2e9ee83a98d97efe878.js?ver=0a637
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\70ac49788f34b2e9ee83a98d97efe878.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/736ffb7782140d1c19fa5e96145e0d0a.js?ver=ca2c6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\736ffb7782140d1c19fa5e96145e0d0a.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/766c374f7574e40100878e53c191e526.js?ver=a2ac6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\766c374f7574e40100878e53c191e526.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/7ca0ba2e376a63add594bea7827d68f8.js?ver=081d8
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\7ca0ba2e376a63add594bea7827d68f8.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/7ed18931e615dc5b3098d9535a8acd0c.js?ver=1a4e6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\7ed18931e615dc5b3098d9535a8acd0c.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/8941962c337a2739fc168cf83e4d06f2.js?ver=d06f2
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\8941962c337a2739fc168cf83e4d06f2.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/9388bde73088c0a447000968e9213534.js?ver=4b94e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\9388bde73088c0a447000968e9213534.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/979cb9ae7e9c53dfbfae02cb341b529a.js?ver=02736
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\979cb9ae7e9c53dfbfae02cb341b529a.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/9bef611ed4009ce4e80798e0150eafc4.js?ver=e3e50
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\9bef611ed4009ce4e80798e0150eafc4.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/9eaa22ba7749632617debd7c044b9019.js?ver=03d10
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\9eaa22ba7749632617debd7c044b9019.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/9f204860e42116d38d5555c9d4290024.js?ver=90024
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\9f204860e42116d38d5555c9d4290024.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/a3c758a448a4e0b82cc2f93f8efc42ff.js?ver=a3f62
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\a3c758a448a4e0b82cc2f93f8efc42ff.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/a3cc8fe50919bc88cd77b7893b99231b.js?ver=49b9e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\a3cc8fe50919bc88cd77b7893b99231b.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/a7aaec379c440d206279828280d1c625.js?ver=32f4f
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\a7aaec379c440d206279828280d1c625.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/a7aaec379c440d206279828280d1c625.js?ver=9858a
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\a7aaec379c440d206279828280d1c625-1.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/ab9a58795f70a8da379e193bf34b8413.js?ver=44da3
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\ab9a58795f70a8da379e193bf34b8413.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/adbfd7a81528ec93e9c88392d7d853db.js?ver=c8318
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\adbfd7a81528ec93e9c88392d7d853db.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/adf22aa742a2e6fa3270207f8423441a.js?ver=cdb6b
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\adf22aa742a2e6fa3270207f8423441a.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/b84cabe16dea9084c40985f4cef34b67.js?ver=f9e38
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\b84cabe16dea9084c40985f4cef34b67.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/bb1afde999ed7f784a83d5f38ce9a8ed.js?ver=1f0a9
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\bb1afde999ed7f784a83d5f38ce9a8ed.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/bcb0cafb8c67891812076909f22cee95.js?ver=6036e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\bcb0cafb8c67891812076909f22cee95.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/bded16cd437d9c2a0a1c8811e4044886.js?ver=467c6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\bded16cd437d9c2a0a1c8811e4044886.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/c24106c4dd389beb5b49ca9c02fe7749.js?ver=f84ee
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\c24106c4dd389beb5b49ca9c02fe7749.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/c8dc3460ca05fc7696204d1e334075bb.js?ver=e8378
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\c8dc3460ca05fc7696204d1e334075bb.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/dfa4d16fcb498c5e50f8c5a86cb38b71.js?ver=0d30e
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\dfa4d16fcb498c5e50f8c5a86cb38b71.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/e7e4be35b2a5ef1755c6a98d33fa158b.js?ver=fb2d6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\e7e4be35b2a5ef1755c6a98d33fa158b.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/f73acd9e489fb988aa6f0cd9679d5aaf.js?ver=234cc
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\f73acd9e489fb988aa6f0cd9679d5aaf.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/f96ade752672b0e10d9c3371826cd628.js?ver=6ce80
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\f96ade752672b0e10d9c3371826cd628.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/litespeed/js/fa8f14045913ce461243e1ebc8ddc55e.js?ver=bf9ff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\litespeed\js\fa8f14045913ce461243e1ebc8ddc55e.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.15.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.15.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.15.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.15.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.15.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/litespeed-cache/assets/js/instant_click.min.js?ver=4.6
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\litespeed-cache\assets\js\instant_click.min.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/litespeed-cache/assets/js/webfontloader.min.js
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\litespeed-cache\assets\js\webfontloader.min.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/star.eot
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\star.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/star.eot?
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\star-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/star.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\star.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/star.ttf
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\star.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/star.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\star.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.eot?
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\WooCommerce-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.ttf
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/fonts/WooCommerce.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\fonts\WooCommerce.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/amex.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\amex.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/diners.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\diners.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/discover.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\discover.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/jcb.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\jcb.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/laser.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\laser.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/maestro.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\maestro.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/mastercard.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\mastercard.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/credit-cards/visa.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\credit-cards\visa.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/plugins/woocommerce/assets/images/icons/loader.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\plugins\woocommerce\assets\images\icons\loader.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Ресурс-1-3.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Ресурс-1-3.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Monument-Extended-Regular.eot
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Monument-Extended-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Monument-Extended-Regular.eot?
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Monument-Extended-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Monument-Extended-Regular.ttf
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Monument-Extended-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Monument-Extended-Regular.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Monument-Extended-Regular.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/Monument-Extended-Regular.woff2
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Monument-Extended-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/ZonaPro-Regular.eot
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\ZonaPro-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/ZonaPro-Regular.eot?
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\ZonaPro-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/ZonaPro-Regular.ttf
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\ZonaPro-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/ZonaPro-Regular.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\ZonaPro-Regular.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/04/ZonaPro-Regular.woff2
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\ZonaPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/1-244x300.jpeg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\1-244x300.jpeg
+Content Type: image/jpeg
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/1-5-252x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\1-5-252x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/1-5.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\1-5.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/1.jpeg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\1.jpeg
+Content Type: image/jpeg
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/AMGEN-client-logo-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\AMGEN-client-logo-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Celestica-client-logo-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Celestica-client-logo-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Choice-NY-client-logo-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Choice-NY-client-logo-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/DwrCyrmu-client-logo-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\DwrCyrmu-client-logo-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-1-300x20.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-1-300x20.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-1-600x40.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-1-600x40.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-1-700x48.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-1-700x48.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-1.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-1.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-2.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-2.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-211x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-211x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-3.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-3.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-4.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-4.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-4959.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-4959.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-5.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-5.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-6.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-6.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group-777.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group-777.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Group.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Group.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/H7_Vector-1-psavmbjme9upv6kgkwc1rfv206huxue2wl5jutyigu-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\H7_Vector-1-psavmbjme9upv6kgkwc1rfv206huxue2wl5jutyigu-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/line.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\line.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/line3.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\line3.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/line4.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\line4.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Rectangle-235.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Rectangle-235.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/07/Sonderborg-Airport-client-logo-1.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\07\Sonderborg-Airport-client-logo-1.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/01_h7_var_003.gif
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\01_h7_var_003.gif
+Content Type: image/gif
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-10.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-10.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-11.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-11.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-12.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-12.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-4958.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-4958.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-7.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-7.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-8.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-8.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Group-9.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Group-9.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/H7_Vector-1.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\H7_Vector-1.svg
+Content Type: image/svg+xml
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/NeueMontreal-Medium.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\NeueMontreal-Medium.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/NeueMontreal-Regular.woff
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\NeueMontreal-Regular.woff
+Content Type: font/woff
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-237.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-237.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-273-244x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-273-244x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-273.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-273.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-274-244x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-274-244x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-274.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-274.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-275-244x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-275-244x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-275.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-275.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-276-244x300.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-276-244x300.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-content/uploads/2022/08/Rectangle-276.png
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\08\Rectangle-276.png
+Content Type: image/png
+
+Uri: http://h7test.dialen.com.ua/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://h7test.dialen.com.ua/wp-includes/wlwmanifest.xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fabout%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fabout%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcareers%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcareers%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcase-studies%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcase-studies%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcompany%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fcompany%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Flocations%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Flocations%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fprivacy-policy%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fprivacy-policy%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fresources%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fresources%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fservice-deck%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fservice-deck%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fterms-of-service%2F
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/oembed/1.0/embed?url=http:%2F%2Fh7test.dialen.com.ua%2Fterms-of-service%2F&format=xml
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/2087
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\2087
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/2099
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\2099
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/2102
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\2102
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3172
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3172
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3173
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3173
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3176
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3176
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3177
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3177
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3205
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3205
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/3206
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\3206
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/wp-json/wp/v2/pages/9
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-json\wp\v2\pages\9
+Content Type: application/json
+
+Uri: http://h7test.dialen.com.ua/xmlrpc.php?rsd
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://quantics.tech/wp-content/uploads/2022/04/Group-47-3.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Group-47-3.svg
+Content Type: image/svg+xml
+
+Uri: https://quantics.tech/wp-content/uploads/2022/04/Subtract-3.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Subtract-3.svg
+Content Type: image/svg+xml
+
+Uri: https://quantics.tech/wp-content/uploads/2022/04/Subtract-4.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\04\Subtract-4.svg
+Content Type: image/svg+xml
+
+Uri: https://quantics.tech/wp-content/uploads/2022/06/Group-80273.svg
+File Name: C:\Users\User\Documents\Web Dev\hseven\built_site\hseven\h7test.dialen.com.ua\wp-content\uploads\2022\06\Group-80273.svg
+Content Type: image/svg+xml
+
